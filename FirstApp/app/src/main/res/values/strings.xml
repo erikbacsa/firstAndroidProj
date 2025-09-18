@@ -12,6 +12,6 @@
     <string name="hello_toast">Hello toast!</string>
     <string name="_0">0</string>
     <string name="random_value">R</string>
-    <string name="hello_second_fragment">Here is a random
+    <string name="random_heading">Here is a random
 number between 0 and %d.</string>
 </resources>
